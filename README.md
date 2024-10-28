@@ -1,11 +1,11 @@
-# Neural Style Transfer
+# Neural Style Transfer with TensorFlow
 
-Neural Style Transfer to transform photos into an Arcane aesthetic.
+Using Neural Style Transfer to give photos an _Arcane_-inspired aesthetic.
 
-| Before                          |
-| ------------------------------- |
-| ![Landing](./assets/before.png) |
+| Original Image                   |
+| -------------------------------- |
+| ![Original](./assets/before.png) |
 
-| After                          |
-| ------------------------------ |
-| ![Landing](./assets/after.png) |
+| Transformed Image                  |
+| ---------------------------------- |
+| ![Transformed](./assets/after.png) |
